@@ -2,7 +2,9 @@
 
 ### What is this?
 
-This is a Compendium of Linux Commands (files with descriptions & helpful personal examples) that I have documented while using them throughout personal projects, studies, and work. I have also coded a simple webpage to display these commands in an organized manner. Each command has a title, description, and example.
+This is a Compendium of Linux Commands (files with descriptions & helpful personal examples) that I have documented while using them throughout personal projects, studies, and work. 
+
+I have also coded a simple webpage to display these commands in an organized manner. Each command has a title, description, and example.
 
 ### Demo of Linux Commands Site:
 
