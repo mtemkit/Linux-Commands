@@ -6,13 +6,13 @@ This is a Compendium of Linux Commands (files with descriptions & helpful person
 
 I have also coded a simple webpage to display these commands in an organized manner. Each command has a title, description, and example.
 
-### Demo of Linux Commands Site:
-
-
-
 ### Purpose:
 
 Creating a helpful and easy-to-follow reference of previously used Linux commands and displaying my progress with Linux.
+
+### Demo of Linux Commands Site:
+
+
 
 ### Main Branch:
 
