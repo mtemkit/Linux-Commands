@@ -24,4 +24,6 @@ This contains the code for the web page with the organized Linux commands, their
 
 ### Will this Repo be Updated?
 
-This won't happen too often since the Linux commands are used in the terminal and I'm not always actively documenting them unless it's a niche or new command I'm learning. However, when I notice a build-up of new documentation of Linux commands, I will update the folders here as well as the site eventually.
+This won't happen too often since the Linux commands are used in the terminal and I'm not always actively documenting them unless it's a niche or new command I'm learning. 
+
+However, when I notice a build-up of new documentation of Linux commands, I will update the folders here as well as the site eventually.
