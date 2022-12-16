@@ -1,7 +1,7 @@
 # Linux-Commands
 
 ### What is this?
-This is a Compendium of Linux Commands (descriptions & helpful examples) that I have documented while using them throughout personal projects, my degree, and work. 
+This is a Compendium of Linux Commands (descriptions & helpful personal examples) that I have documented while using them throughout personal projects, my degree, and work. 
 
 ### Summarized Webpage of Commands:
 
