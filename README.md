@@ -3,7 +3,11 @@
 ### What is this?
 This is a Compendium of Linux Commands (descriptions & helpful personal examples) that I have documented while using them throughout personal projects, studies, and work. 
 
-### Summarized Webpage of Commands:
+### Demo of Commands:
+
+I have coded a simple webpage to display the commands. Each command has a title, description, and example.
+
+You can find the site: 
 
 ### Purpose:
 
