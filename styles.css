@@ -1,0 +1,31 @@
+body {
+    background-color: lightgreen;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.block {
+    width: 90%;
+    border: 1px solid green;
+    padding: 15px 15px 15px 15px;
+    margin-bottom: 20px;
+}
+
+.block-title {
+    text-align: center;
+}
+
+.block-text {
+    border: 1px solid white;
+    padding: 5px;
+    text-align: center;
+    background: white;
+}

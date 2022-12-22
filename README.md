@@ -8,7 +8,7 @@ I have also coded a simple webpage to display these commands in an organized man
 
 ### Purpose:
 
-Creating a helpful and easy-to-follow reference of previously used Linux commands and displaying my progress with Linux.
+Creating a helpful and easy-to-follow personal reference of previously used Linux commands and displaying my progress with Linux.
 
 ### Demo of Linux Commands Site:
 
