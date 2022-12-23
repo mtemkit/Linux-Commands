@@ -12,7 +12,7 @@ Creating a helpful and easy-to-follow personal reference of previously used Linu
 
 ### Live Site Demo:
 
-https://mtemkit.github.io/My-Linux-Commands/ (work in progress)
+https://mtemkit.github.io/My-Linux-Commands (work in progress)
 
 ### Main Branch:
 
