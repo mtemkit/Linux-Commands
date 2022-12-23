@@ -10,7 +10,7 @@ I have also coded a simple webpage to display these commands in an organized man
 
 Creating a helpful and easy-to-follow personal reference of previously used Linux commands and displaying my progress with Linux. 
 
-### Demo of Linux Commands Site:
+### Live Site Demo:
 
 https://mtemkit.github.io/My-Linux-Commands/ (work in progress)
 
