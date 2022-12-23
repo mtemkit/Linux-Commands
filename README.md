@@ -20,7 +20,7 @@ This contains the code for the web page with the organized Linux commands and th
 
 ### Linux Files and Folders Branch
 
-This contains some of my docucmented folders and documents with Linux work.
+This contains some of my documented folders and documents with Linux work.
 
 ### Will this Repo be Updated?
 
