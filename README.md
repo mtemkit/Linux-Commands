@@ -17,7 +17,7 @@ Creating a helpful and easy-to-follow personal reference of previously used Linu
 
 This contains the code for the web page with the organized Linux commands and their description with an example of how they've been used for personal reference.
 
-### Linux Files Branch
+### Linux Files and Folders Branch
 
 This contains some of my docucmented folders and documents with Linux work.
 
