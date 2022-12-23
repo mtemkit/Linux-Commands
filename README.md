@@ -2,7 +2,7 @@
 
 ### What is this?
 
-This is a branch containing some of my docucmented folders and documents with Linux work.
+This is a branch containing some of my documented folders and documents with Linux work.
 
 ### Purpose:
 
